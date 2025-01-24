@@ -16,4 +16,4 @@
 
 # OUTPUT OF THE TASK
 
-<!-- Uploading "WhatsApp Image 2025-01-23 at 8.12.05 PM.jpeg"... -->
+![Image](https://github.com/user-attachments/assets/a3bae9ba-d73c-472b-9f02-faca6bbb1fc5)
